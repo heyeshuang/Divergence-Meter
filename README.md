@@ -1,4 +1,8 @@
 Divergence-Meter
 ================
 
-html5 Divergence-Meter from an anime called Steins;Gate
+##世界变动率计数器（仮）
+
+html5 _Divergence-Meter_ from an anime called _Steins;Gate_
+
+useless

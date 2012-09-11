@@ -1,0 +1,45 @@
+body {
+	background: black;
+	font-size: 100%;
+	TEXT-ALIGN:center;
+}
+hgroup{
+	TEXT-ALIGN:center;
+	color:white;
+}
+h1 {
+	font-family:"FZKai-Z03",Times,Georgia,serif;
+	color:#FFFFFF;
+	text-decoration:underline;
+	font-weight:100;
+	font-size: 3em;
+}
+h4{
+	font-size:1em;
+	position: relative;
+	top:40px;
+	left:-200px;
+}
+.Capital{
+	background: white;
+	color: black;
+}
+#c{
+	margin:50px;	
+	
+}
+button{
+	position:relative;
+	left: 150px;
+	background: transparent;
+	border-width:thin;
+	color:#FFFFFF;
+}
+footer{
+
+	color: #000000;
+}
+footer a{
+	color:#000000;
+}
+
